@@ -23,16 +23,23 @@ I am a developer who blends powerful **C# backend logic** with modern **AI-drive
 #### 🌐 [GlobalOffer](https://github.com/Ahm3d_2005/GlobalOffer.dev)
 An innovative web application platform engineered for scale. Built with a highly organized admin portal routing system and optimized interfaces.
 
+#### ☕ [Premium Coffee Shop](https://github.com/Ahm3d_2005/coffee-shop-website)
+A visually striking, modern digital storefront featuring immersive, high-performance 3D web animations.
+
+#### 🤖 [Gym Chat Bot](https://github.com/Ahm3d_2005/gym-chat-bot)
+An intelligent conversational automation workflow designed to streamline fitness and client management schedules seamlessly.
+
 ---
 
-### 📊 My Live Activity & Commit Stats
+### 📊 Project Status & Progress
 
-Here you can track my live repository commits, active streaks, and platform contributions:
+| Platform / Project | Status | Tech Powering It |
+| :--- | :--- | :--- |
+| **🌐 GlobalOffer** | `Active Development` | `Lovable` + `Cursor` |
+| **☕ Premium Coffee Shop** | `Completed` | `Antigravity` + `Bolt` |
+| **🤖 Gym Chat Bot** | `Maintained` | `C# Backend` |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahm3d_2005&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Ahmed's Commit Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahm3d_2005&theme=tokyonight" alt="Ahmed's Commit Streak" width="48%" />
-</p>
+> 💡 **Live Commits:** Check out my automated green contribution graph below right on my main dashboard to see my daily live commit activity!
 
 ---
 
