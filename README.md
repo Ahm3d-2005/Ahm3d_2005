@@ -23,12 +23,6 @@ I am a developer who blends powerful **C# backend logic** with modern **AI-drive
 #### 🌐 [GlobalOffer](https://github.com/Ahm3d_2005/GlobalOffer.dev)
 An innovative web application platform engineered for scale. Built with a highly organized admin portal routing system and optimized interfaces.
 
-#### ☕ [Premium Coffee Shop](https://github.com/Ahm3d_2005/premium-coffee-shop)
-A visually striking, modern digital storefront featuring immersive, high-performance 3D web animations.
-
-#### 🤖 [Gym Chat Bot](https://github.com/Ahm3d_2005/gym-chat-bot)
-An intelligent conversational automation workflow designed to streamline fitness and client management schedules seamlessly.
-
 ---
 
 ### 📊 My Live Activity & Commit Stats
