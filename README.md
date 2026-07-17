@@ -20,7 +20,7 @@ I am a developer who blends powerful **C# backend logic** with modern **AI-drive
 
 ### 🌟 Featured Projects
 
-#### 🌐 [GlobalOffer](https://github.com/Ahm3d_2005/GlobalOffer.dev)
+#### 🌐 [GlobalOffer](https://globaloffer.dev/)
 An innovative web application platform engineered for scale. Built with a highly organized admin portal routing system and optimized interfaces.
 
 ### 📊 Project Status & Progress
