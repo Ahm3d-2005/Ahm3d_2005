@@ -1,14 +1,9 @@
 # Muhammad Ahmed Chishti 👋
 
-<!-- Centered Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/content?type=waving&color=auto&height=180&section=header&text=Welcome%20To%20My%20Profile&fontSize=35&animation=fadeIn" alt="Animated Header" />
-</p>
-
-<!-- Typing Animation Subtitle -->
+<!-- Replaced failing header with a sleek, bulletproof typing animation -->
 <p align="center">
   <a href="https://github.com/Ahm3d_2005">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=C%23+Developer+💻;AI+Software+Engineer+🤖;Lovable+%2B+Cursor+Expert+🚀" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=C%23+Developer+💻;AI+Software+Engineer+🤖;Lovable+%2B+Cursor+Expert+🚀" alt="Typing Animation" />
   </a>
 </p>
 
@@ -21,15 +16,6 @@ I am a developer who blends powerful **C# backend logic** with modern **AI-drive
 * 🛠️ **Core Language:** C#
 * 🤖 **AI Generation & Design Tools:** Lovable, Bolt.new, Antigravity
 * 💻 **Next-Gen IDEs:** Cursor
-
----
-
-### 📊 GitHub Stats (Animated Themes)
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahm3d_2005&show_icons=true&theme=tokyonight&count_private=true" alt="Ahmed's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahm3d_2005&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
-</p>
 
 ---
 
